@@ -1,0 +1,7 @@
+{
+  "name": "ScamWatch Global",
+  "description": "A community-driven platform for reporting, verifying, and tracking online scammers to protect the public. Features AI-powered risk assessment and a transparent moderation workflow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
